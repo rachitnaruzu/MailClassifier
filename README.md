@@ -190,41 +190,41 @@ Observation
 
 #### Accuracy vs Learning Rate
 
-	![lr_ac_vs_al](/images/lr_ac_vs_al.JPG)
+![lr_ac_vs_al](/images/lr_ac_vs_al.JPG)
 	
 #### Accuracy vs Regularization
 
-	![lr_ac_vs_lm](/images/lr_ac_vs_lm.JPG)
+![lr_ac_vs_lm](/images/lr_ac_vs_lm.JPG)
 	
 #### Iterations vs Learning Rate
 
-	![lr_it_vs_al](/images/lr_it_vs_al.JPG)
+![lr_it_vs_al](/images/lr_it_vs_al.JPG)
 	
 #### Cost vs Iterations
 
-	![lr_cost_vs_iter](/images/lr_cost_vs_iter.JPG)  
+![lr_cost_vs_iter](/images/lr_cost_vs_iter.JPG)  
 
 ###  ANN Observations
 
 #### Accuracy vs Learning Rate
 	
-	![ann_ac_vs_al](/images/ann_ac_vs_al.JPG)
+![ann_ac_vs_al](/images/ann_ac_vs_al.JPG)
 	
 #### Accuracy vs Regularization
 	
-	![ann_ac_vs_lm](/images/ann_ac_vs_lm.JPG)
+![ann_ac_vs_lm](/images/ann_ac_vs_lm.JPG)
 	
 #### Iterations vs Learning Rate
 
-	![ann_it_vs_al](/images/ann_it_vs_al.JPG)
+![ann_it_vs_al](/images/ann_it_vs_al.JPG)
 	
 #### Cost vs Iterations
 
-	![ann_cost_vs_it](/images/ann_cost_vs_it.JPG)
+![ann_cost_vs_it](/images/ann_cost_vs_it.JPG)
 
 ### Feature Selection
 
-	![feature_selection](/images/feature_selection.JPG)
+![feature_selection](/images/feature_selection.JPG)
 
 Dependencies
 ------------
